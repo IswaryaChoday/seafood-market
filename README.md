@@ -12,4 +12,4 @@ What one can learn from the project :
 - Creating maintainable code with JavaScript Modules.
 - URL routing with React Router 4.
 
-[my wiki] https://github.com/IswaryaChoday/seafood-market/wiki/example
+[my wiki]https://github.com/IswaryaChoday/seafood-market/wiki/example
